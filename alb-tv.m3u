@@ -23,6 +23,8 @@ http://45.67.159.39:8081/live/jolly/chunks.m3u8?nimblesessionid=23910835&wmsAuth
 http://45.67.159.39:8081/live/3plus/chunks.m3u8?nimblesessionid=23912111&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzo0NzozMyBQTSZoYXNoX3ZhbHVlPUVNL2RyL2FTTDJVUWx5KzBxSUlBRkE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w1173064098.m3u8
+#EXTINF:0,RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w1541858703.m3u8
 #EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
 #EXTINF:0,Tring Tring
