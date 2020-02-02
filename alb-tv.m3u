@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
 #EXTINF:0, TV Klan Plus
 http://45.67.159.39:8081/live/klanplus1/chunks.m3u8?nimblesessionid=23887078
 #EXTINF:0,ALB:TV Klan-HD
