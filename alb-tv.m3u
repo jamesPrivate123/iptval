@@ -1,28 +1,28 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0,TV Klan Plus,BANDWIDTH=2014000,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
-chunks.m3u8?nimblesessionid=23877688
-#EXTINF:0,ALB:TV Klan-HD
+#EXTINF:0,TV Klan Plus,RESOLUTION=854x480
+http://crvenikriz.com:8000/iptvhddm@gmail.com/ddd2q1247@hotmail.com/2346
+#EXTINF:0,TV Klan-HD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
-#EXTINF:0,ALB:Tring World
+#EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
-#EXTINF:0,ALB:Tring Tring
+#EXTINF:0,Tring Tring
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/536
-#EXTINF:0,ALB:Tring Sport News
+#EXTINF:0,Tring Sport News
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/911
-#EXTINF:0,ALB:TRING Sport 2
+#EXTINF:0,TRING Sport 2
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/528
-#EXTINF:0,ALB:TRING Sport 1
+#EXTINF:0,TRING Sport 1
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/527
-#EXTINF:0,ALB:Tring Shqip
+#EXTINF:0,Tring Shqip
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/538
-#EXTINF:0,ALB:Tring Planet
+#EXTINF:0,Tring Planet
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/539
-#EXTINF:0,ALB:Tring Life
+#EXTINF:0,Tring Life
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/541
-#EXTINF:0,ALB:Tring Comedy
+#EXTINF:0,Tring Comedy
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/542
-#EXTINF:0,ALB:Tring History
+#EXTINF:0,Tring History
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/543
-#EXTINF:0,ALB:Tring Fantasy
+#EXTINF:0,Tring Fantasy
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/544
