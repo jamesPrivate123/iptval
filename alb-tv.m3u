@@ -4,11 +4,11 @@ http://45.67.159.39:8081/live/klanplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 #EXTINF:0,TV Klan
 http://45.67.159.39:8081/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjoyNTo1NSBQTSZoYXNoX3ZhbHVlPXlnb3RobXBGWlJFWEZxakdRQlQzU0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Vizion Plus
-http://45.67.159.39:8081/live/vizionplus/chunks.m3u8?nimblesessionid=23904617&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoxMDo1MiBQTSZoYXNoX3ZhbHVlPS9MVDY0OXBPT0l2Qk5jWjNoUXNna2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo0OTowMyBQTSZoYXNoX3ZhbHVlPUpkQ0pFWGZzU1Z4WmFEL2ZVRmhoOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan HD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
 #EXTINF:0,Super Sport 1
-http://45.67.159.39:8081/live/ss1/chunks.m3u8?nimblesessionid=23906306&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoxODozMCBQTSZoYXNoX3ZhbHVlPStjSXhuK3ptOVdWcmhaaXA5K2tkaFE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/ss1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1MDoyNyBQTSZoYXNoX3ZhbHVlPXBLb3JBOWNGSXZENUxad1FncEZGQUE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2
 http://45.67.159.39:8081/live/ss2/chunks.m3u8?nimblesessionid=23907200&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoyMjoxNSBQTSZoYXNoX3ZhbHVlPU1SUVFBckg3K2FFVmNYMWk3ZnNka3c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2 HD
