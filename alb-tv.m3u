@@ -2,7 +2,7 @@
 #EXTINF:0,TV Klan Plus
 http://45.67.159.39:8081/live/klanplus1/chunks.m3u8?nimblesessionid=23969690&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjoyMjoxMyBQTSZoYXNoX3ZhbHVlPVNmUllOTnlrL1pHM29nOXVVdzVmcXc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan
-http://45.67.159.39:8081/live/klan1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjoyNTo1NSBQTSZoYXNoX3ZhbHVlPXlnb3RobXBGWlJFWEZxakdRQlQzU0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjoyNTo1NSBQTSZoYXNoX3ZhbHVlPXlnb3RobXBGWlJFWEZxakdRQlQzU0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Vizion Plus
 http://45.67.159.39:8081/live/vizionplus/chunks.m3u8?nimblesessionid=23904617&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoxMDo1MiBQTSZoYXNoX3ZhbHVlPS9MVDY0OXBPT0l2Qk5jWjNoUXNna2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan HD
