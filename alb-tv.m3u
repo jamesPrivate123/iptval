@@ -7,6 +7,8 @@ http://45.67.159.39:8081/live/klan1/chunks.m3u8?nimblesessionid=23898613&wmsAuth
 http://45.67.159.39:8081/live/vizionplus/chunks.m3u8?nimblesessionid=23904617&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoxMDo1MiBQTSZoYXNoX3ZhbHVlPS9MVDY0OXBPT0l2Qk5jWjNoUXNna2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 1
 http://45.67.159.39:8081/live/ss1/chunks.m3u8?nimblesessionid=23906306&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoxODozMCBQTSZoYXNoX3ZhbHVlPStjSXhuK3ptOVdWcmhaaXA5K2tkaFE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+#EXTINF:0,Super Sport 2
+http://45.67.159.39:8081/live/ss2/chunks.m3u8?nimblesessionid=23907200&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoyMjoxNSBQTSZoYXNoX3ZhbHVlPU1SUVFBckg3K2FFVmNYMWk3ZnNka3c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
 #EXTINF:0,Tring Tring
