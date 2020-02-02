@@ -14,9 +14,9 @@ http://45.67.159.39:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8y
 #EXTINF:0,Super Sport 2 HD
 http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1Mjo0MyBQTSZoYXNoX3ZhbHVlPStQOUpxd00yR0R6Q0UreW5BRDZkeHc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 3
-http://45.67.159.39:8081/live/ss3/chunks.m3u8?nimblesessionid=23908832&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozMDo0OCBQTSZoYXNoX3ZhbHVlPXhQaVpFQjhVL2R3MDIzaFNVMGlNR0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1NDowNiBQTSZoYXNoX3ZhbHVlPUxtMTFJbDhlbFVpR2c3KzI5K0F1T2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 4
-http://45.67.159.39:8081/live/ss4/chunks.m3u8?nimblesessionid=23909229&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozMzoxNyBQTSZoYXNoX3ZhbHVlPUtpSTRuRlEva3RzbmRQb2oyc1hiUEE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/ss4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1NTowNSBQTSZoYXNoX3ZhbHVlPWpySmFzK2ozSzNiNGJtYUNTK0JOR0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring Aksion
 http://45.67.159.39:8081/live/taksion/chunks.m3u8?nimblesessionid=23910250&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozODoxNSBQTSZoYXNoX3ZhbHVlPVR6dVU1a2c5bUdMZU0yZE5XOXdCOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Jolly TV
