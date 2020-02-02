@@ -2,7 +2,7 @@
 #EXTINF:0,TV Klan Plus
 http://45.67.159.39:8081/live/klanplus1/chunks.m3u8?nimblesessionid=23887078
 #EXTINF:0,TV Klan-HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
+http://45.67.159.39:8081/live/klan1/chunks.m3u8?nimblesessionid=23898613&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMjo0MTo0OCBQTSZoYXNoX3ZhbHVlPXBBZTc3ekxEcUtjaDZua1lmWlVKK2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
 #EXTINF:0,Tring Tring
