@@ -13,6 +13,8 @@ http://45.67.159.39:8081/live/ss2/chunks.m3u8?nimblesessionid=23907200&wmsAuthSi
 http://45.67.159.39:8081/live/s2/chunks.m3u8?nimblesessionid=23907873&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzoyNToxMCBQTSZoYXNoX3ZhbHVlPW1JT0VXenFFZThjbGNwbkFoR2xRemc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==%22
 #EXTINF:0,Super Sport 3
 http://45.67.159.39:8081/live/ss3/chunks.m3u8?nimblesessionid=23908832&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozMDo0OCBQTSZoYXNoX3ZhbHVlPXhQaVpFQjhVL2R3MDIzaFNVMGlNR0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+#EXTINF:0,Super Sport 4
+http://45.67.159.39:8081/live/ss4/chunks.m3u8?nimblesessionid=23909229&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozMzoxNyBQTSZoYXNoX3ZhbHVlPUtpSTRuRlEva3RzbmRQb2oyc1hiUEE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
 #EXTINF:0,Tring Tring
