@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0,TV Klan Plus,RESOLUTION=854x480
-http://crvenikriz.com:8000/iptvhddm@gmail.com/ddd2q1247@hotmail.com/2346
+#EXTINF:0,TV Klan Plus
+http://45.67.159.39:8081/live/klanplus1/l_34588_9847089_433.ts?nimblesessionid=23887078
 #EXTINF:0,TV Klan-HD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
 #EXTINF:0,Tring World
