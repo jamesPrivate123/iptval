@@ -17,6 +17,8 @@ http://45.67.159.39:8081/live/ss3/chunks.m3u8?nimblesessionid=23908832&wmsAuthSi
 http://45.67.159.39:8081/live/ss4/chunks.m3u8?nimblesessionid=23909229&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozMzoxNyBQTSZoYXNoX3ZhbHVlPUtpSTRuRlEva3RzbmRQb2oyc1hiUEE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring Aksion
 http://45.67.159.39:8081/live/taksion/chunks.m3u8?nimblesessionid=23910250&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozODoxNSBQTSZoYXNoX3ZhbHVlPVR6dVU1a2c5bUdMZU0yZE5XOXdCOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+#EXTINF:0,Jolly TV
+http://45.67.159.39:8081/live/jolly/chunks.m3u8?nimblesessionid=23910835&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzo0MToxMCBQTSZoYXNoX3ZhbHVlPWVTUnpHZTl0M09xVWVlcHpqcytZdlE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Tring World
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/535
 #EXTINF:0,Tring Tring
