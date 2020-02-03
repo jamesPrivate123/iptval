@@ -22,7 +22,7 @@ http://45.67.159.39:8081/live/taksion/chunks.m3u8?nimblesessionid=23910250&wmsAu
 #EXTINF:0,Jolly TV
 http://shqipvision.ddns.net:8081/live/jolly1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo0NDo1MyBQTSZoYXNoX3ZhbHVlPXFkVDJ1YzhUeFJtOWo5ZDk4TE1WaWc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Tring 3 Plus
-http://45.67.159.39:8081/live/3plus/chunks.m3u8?nimblesessionid=23912111&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzo0NzozMyBQTSZoYXNoX3ZhbHVlPUVNL2RyL2FTTDJVUWx5KzBxSUlBRkE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/3plus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo0Nzo1MSBQTSZoYXNoX3ZhbHVlPXIzWG4vaVpBeTF3UDFFZ0g1VndjUVE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w1173064098.m3u8
 #EXTINF:0,RTK 4
