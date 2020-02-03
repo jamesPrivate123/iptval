@@ -8,17 +8,17 @@ http://shqipvision.ddns.net:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:0,TV Klan HD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
 #EXTINF:0,Super Sport 1
-http://45.67.159.39:8081/live/ss1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1MDoyNyBQTSZoYXNoX3ZhbHVlPXBLb3JBOWNGSXZENUxad1FncEZGQUE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/ss1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MTozMSBQTSZoYXNoX3ZhbHVlPU93clcxK1dtclpIdEdLYkE4TVZYK0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2
-http://45.67.159.39:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1MToyNSBQTSZoYXNoX3ZhbHVlPVIyMlZPY0NoZnU0VWwxYjRGckpoQmc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MjoyNyBQTSZoYXNoX3ZhbHVlPStBVVRrOXBPVTV4VmRMYzZwRGtkU3c9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2 HD
 http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1Mjo0MyBQTSZoYXNoX3ZhbHVlPStQOUpxd00yR0R6Q0UreW5BRDZkeHc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 3
-http://45.67.159.39:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1NDowNiBQTSZoYXNoX3ZhbHVlPUxtMTFJbDhlbFVpR2c3KzI5K0F1T2c9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MzowOCBQTSZoYXNoX3ZhbHVlPWRnVDR0M3lxdFA5NHFWMGR0b1U1OUE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 4
-http://45.67.159.39:8081/live/ss4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1NTowNSBQTSZoYXNoX3ZhbHVlPWpySmFzK2ozSzNiNGJtYUNTK0JOR0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/ss4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1Mzo0NiBQTSZoYXNoX3ZhbHVlPVlCVXVtejhlc09nUGhIUDRlclZIbGc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Tring Aksion
-http://45.67.159.39:8081/live/taksion/chunks.m3u8?nimblesessionid=23910250&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgMzozODoxNSBQTSZoYXNoX3ZhbHVlPVR6dVU1a2c5bUdMZU0yZE5XOXdCOWc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/taksion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1NTowMyBQTSZoYXNoX3ZhbHVlPVVodm1oU0dQUE84bTlORlMrY3hjb2c9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Jolly TV
 http://shqipvision.ddns.net:8081/live/jolly1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo0NDo1MyBQTSZoYXNoX3ZhbHVlPXFkVDJ1YzhUeFJtOWo5ZDk4TE1WaWc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Tring 3 Plus
