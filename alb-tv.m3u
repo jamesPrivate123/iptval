@@ -4,7 +4,7 @@ http://shqipvision.ddns.net:8081/live/klanplus/playlist.m3u8?wmsAuthSign=c2VydmV
 #EXTINF:0,TV Klan
 http://shqipvision.ddns.net:8081/live/klan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjAgNzo1NjozNiBQTSZoYXNoX3ZhbHVlPVdLZVVwUnF5bUpwK1pybk1rOFpqRVE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Vizion Plus
-http://45.67.159.39:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjAgNjozODowNiBQTSZoYXNoX3ZhbHVlPSt2dG1WYXkydC82VFk4cGZYa3BMaEE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjAgNzo1OToxNiBQTSZoYXNoX3ZhbHVlPWFJUjZiQ2ZJR3lzQk1iem5QNEJiekE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan HD
 http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
 #EXTINF:0,Super Sport 1
