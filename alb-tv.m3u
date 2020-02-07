@@ -2,7 +2,7 @@
 #EXTINF:0,TV Klan Plus
 http://45.67.159.39:8081/live/klanplus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjAgNzoxNDoyMCBQTSZoYXNoX3ZhbHVlPTM5ekYxTS9pWDJ0cGtYWWtxYTJOMkE9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan
-http://www.shqipvision.com/live/klan.php
+http://45.67.159.39:8081/live/klan1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjAgNzoyMDo1NCBQTSZoYXNoX3ZhbHVlPXNPb1Y0OGJpenRFUmdzb3p4QUYzc0E9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Vizion Plus
 http://shqipvision.ddns.net:8081/live/vizionplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjAgNzo1OToxNiBQTSZoYXNoX3ZhbHVlPWFJUjZiQ2ZJR3lzQk1iem5QNEJiekE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,TV Klan HD
