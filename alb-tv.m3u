@@ -10,7 +10,7 @@ http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/905
 #EXTINF:0,Super Sport 1
 http://shqipvision.ddns.net:8081/live/ss1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MTozMSBQTSZoYXNoX3ZhbHVlPU93clcxK1dtclpIdEdLYkE4TVZYK0E9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2
-http://shqipvision.ddns.net:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MjoyNyBQTSZoYXNoX3ZhbHVlPStBVVRrOXBPVTV4VmRMYzZwRGtkU3c9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
+http://45.67.159.39:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgODowMDowNiBQTSZoYXNoX3ZhbHVlPUYrNXpxWDUzaDhhYk5qaldvNDN2SXc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2 HD
 http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1Mjo0MyBQTSZoYXNoX3ZhbHVlPStQOUpxd00yR0R6Q0UreW5BRDZkeHc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 3
