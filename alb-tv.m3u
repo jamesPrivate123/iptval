@@ -12,7 +12,7 @@ http://shqipvision.ddns.net:8081/live/ss1/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:0,Super Sport 2
 http://45.67.159.39:8081/live/ss2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgODowMDowNiBQTSZoYXNoX3ZhbHVlPUYrNXpxWDUzaDhhYk5qaldvNDN2SXc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 2 HD
-http://45.67.159.39:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjAgNjo1Mjo0MyBQTSZoYXNoX3ZhbHVlPStQOUpxd00yR0R6Q0UreW5BRDZkeHc9PSZ2YWxpZG1pbnV0ZXM9MjAmc3RybV9sZW49NA==
+http://shqipvision.ddns.net:8081/live/s2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgODozNTowMSBQTSZoYXNoX3ZhbHVlPTZzRTY1VXhaQkRyak0yZ21rbmN4SGc9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 3
 http://shqipvision.ddns.net:8081/live/ss3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjAgNzo1MzowOCBQTSZoYXNoX3ZhbHVlPWRnVDR0M3lxdFA5NHFWMGR0b1U1OUE9PSZ2YWxpZG1pbnV0ZXM9NDAmc3RybV9sZW49NA==
 #EXTINF:0,Super Sport 4
