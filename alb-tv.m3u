@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,TV Klan Plus
-http://shqipvision.ddns.net:8081/live/klanplus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIwIDc6MTU6MzEgUE0maGFzaF92YWx1ZT1VVFZUQS9PdDk4b3cwVmNrcWkxNUxRPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
+http://shqipvision.ddns.net:8081/live/klanplus1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDIwIDc6MTg6MTQgUE0maGFzaF92YWx1ZT1RazBNQnNNUk5Yd1MzL05XcW5oVFVRPT0mdmFsaWRtaW51dGVzPTQwJnN0cm1fbGVuPTQ=
 #EXTINF:0,TV Klan
 http://45.67.156.128/live/tvklan.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjAgOTo1MzozNCBQTSZoYXNoX3ZhbHVlPWdxZHozdnBFNllWRHl1aVdQNnNZcFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:0,Vizion Plus
